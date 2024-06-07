@@ -8,8 +8,8 @@ A TODO Web App with Django Backend. It's a fully CRUD application.
 
 ## Installation
 
-Clone the git repository
-1. 
+1. Clone the git repository
+
 
 ```bash
   git clone https://github.com/appykr/todo_app.git
