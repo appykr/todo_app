@@ -33,4 +33,4 @@ ENV PYTHONUNBUFFERED 1
 RUN python manage.py migrate
 
 # Step 10: Start the Django development server
-CMD ["python", "manage.py", "runserver", "localhost:8000"]
+CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
